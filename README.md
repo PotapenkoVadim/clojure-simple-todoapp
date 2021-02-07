@@ -1,4 +1,4 @@
-# TodoApp using Clojurescript and React #
+# TodoApp using Clojurescript #
 ### Описание
 Простейшее todo-приложение на clojurescript (reagent)
 ![](pic.PNG)
